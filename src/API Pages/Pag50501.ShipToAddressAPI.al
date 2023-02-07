@@ -104,7 +104,7 @@ page 50601 "Ship To Address API"
                 }
                 field(placeOfExport; Rec."Place of Export")
                 {
-                    Caption = 'Place of Export';
+                    Caption = 'Place of Export';//
                 }
                 field(postCode; Rec."Post Code")
                 {
