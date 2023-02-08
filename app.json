@@ -40,6 +40,12 @@
       "publisher": "Microsoft",
       "name": "India TCS",
       "version": "18.3.27240.27480"
+    },
+    {
+      "id": "4ba22a4e-fc4f-4f0b-9a57-5874849a493e",
+      "publisher": "Pacific",
+      "name": "Kohinoor_Retail",
+      "version": "1.0.0.0"
     }
   ],
   "screenshots": [],

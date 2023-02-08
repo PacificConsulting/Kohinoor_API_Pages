@@ -108,7 +108,7 @@ page 50601 "Ship To Address API"
                 }
                 field(postCode; Rec."Post Code")
                 {
-                    Caption = 'Post Code';
+                    Caption = 'Post Code';//Temp
                 }
                 field(serviceZoneCode; Rec."Service Zone Code")
                 {
